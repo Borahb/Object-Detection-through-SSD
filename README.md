@@ -9,11 +9,11 @@ A Pytorch implementation of Single Shot Multi-Box Detector.I implemented on a vi
 1. You can install Spider or any IDE of your choice.
 2. Install Pytorch
 3. Download the pre-trained SSD network for detection
+
 link : https://s3.amazonaws.com/amdegroot-models/ssd300_mAP_77.43_v2.pth
 
 # Implimentation
-Save the repo. Change the ('ghystreet2.mp4')  in objectdetect.py to any video of your choice. and run the file objectdetect.py 
-
+Save the repo. Change the ('ghystreet2.mp4')  in object_detect.py to any video of your choice. and run the file object_detect.py 
 
 # Output
 ![](out.gif)
